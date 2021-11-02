@@ -1,13 +1,11 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Sammy.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science with a focus of Backend web and Data Science at Dominican University of Califoria.
 - 🌱 &nbsp; Learning more about Blockchain Technology, server-side architecture, and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Game development and sprite making!
+- 👾 &nbsp; Playing around with Game development and sprite making!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
